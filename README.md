@@ -1,5 +1,5 @@
 ### 🚀 About Me
-Aspiring Software Engineer with expertise in **C/C++, Python, Java** and a passion for **AI/ML**, **web development**, and **mobile app development**. Experienced in building scalable solutions with a strong focus on performance and maintainability.
+Aspiring **Software Engineer** with expertise in **C/C++, Python, Java** and a passion for **AI/ML**, **web development**, and **mobile app development**. Experienced in building scalable solutions with a strong focus on performance and maintainability.
 
 ---
 
@@ -40,17 +40,22 @@ Aspiring Software Engineer with expertise in **C/C++, Python, Java** and a passi
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 Key Achievements
+✅ **GPT-Based Spam Detection Model**: Achieved **97.5% validation accuracy** and **95.67% test accuracy** with optimized GPT-2 architecture.  
+✅ **Flutter UI Optimization**: Enhanced app responsiveness by **25%** during internship.  
+✅ Successfully completed **SQL Certification** and **AWS Cloud Training**.
 
 ---
 
-## 🏆 Achievements
-- **GPT-Based Spam Detection Model**: Achieved **97.5% validation accuracy** and **95.67% test accuracy** with optimized GPT-2 architecture.
-- **Flutter UI Optimization**: Enhanced app responsiveness by **25%** during internship.
-- **SQL Certification** and **AWS Cloud Training** completed successfully.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=false" alt="Streak Stats" width="400">  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400">
+</p>
 
 ---
 
@@ -58,4 +63,3 @@ Aspiring Software Engineer with expertise in **C/C++, Python, Java** and a passi
 [![](https://visitcount.itsvg.in/api?id=rudxkush&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
