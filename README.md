@@ -40,13 +40,6 @@ Aspiring **Software Engineer** with expertise in **C/C++, Python, Java** and a p
 
 ---
 
-## 🏆 Key Achievements
-✅ **GPT-Based Spam Detection Model**: Achieved **97.5% validation accuracy** and **95.67% test accuracy** with optimized GPT-2 architecture.  
-✅ **Flutter UI Optimization**: Enhanced app responsiveness by **25%** during internship.  
-✅ Successfully completed **SQL Certification** and **AWS Cloud Training**.
-
----
-
 ## 📊 GitHub Stats
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
@@ -61,11 +54,3 @@ Aspiring **Software Engineer** with expertise in **C/C++, Python, Java** and a p
     </td>
   </tr>
 </table>
-
-
----
-
-## 📈 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=rudxkush&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
