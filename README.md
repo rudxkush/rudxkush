@@ -48,19 +48,20 @@ Aspiring **Software Engineer** with expertise in **C/C++, Python, Java** and a p
 ---
 
 ## 📊 GitHub Stats
-<table width="100%">
-<tr>
-<td width="33%">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"> 
-</td>
-<td width="33%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=false" alt="Streak Stats" width="100%">  
-</td>
-<td width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%">
-</td>
-</tr>
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="width: 33.3%; padding: 0; margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" height="200">
+    </td>
+    <td style="width: 33.3%; padding: 0; margin: 0;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=true" alt="Streak Stats" width="100%" height="200">
+    </td>
+    <td style="width: 33.3%; padding: 0; margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" height="200">
+    </td>
+  </tr>
 </table>
+
 
 ---
 
