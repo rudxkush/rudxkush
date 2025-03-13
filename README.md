@@ -48,14 +48,7 @@ Aspiring **Software Engineer** with expertise in **C/C++, Python, Java** and a p
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400"> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=false" alt="Streak Stats" width="400">  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400">
-</p>
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"> </td> <td> <img src="https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=false" alt="Streak Stats"> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> </td> </tr> </table>
 
 ---
 
