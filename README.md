@@ -41,9 +41,9 @@ Aspiring Software Engineer with expertise in **C/C++, Python, Java** and a passi
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rudxkush&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=rudxkush&theme=graywhite&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudxkush&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
