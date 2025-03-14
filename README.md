@@ -1,5 +1,6 @@
 ### 🚀 About Me
-Aspiring **Software Engineer** with expertise in **C/C++, Python, Java** and a passion for **AI/ML**, **web development**, and **mobile app development**. Experienced in building scalable solutions with a strong focus on performance and maintainability.
+I'm a programmer who knows C/C++, Python and Java. I enjoy creating computer programs, websites, and phone applications.
+I have experience building reliable programs that work well and are easy to update.
 
 ---
 
