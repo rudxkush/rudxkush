@@ -1,6 +1,7 @@
 ### 🚀 About Me
-I'm a programmer who knows C/C++, Python and Java. I enjoy creating computer programs, websites, and phone applications.
-I have experience building reliable programs that work well and are easy to update.
+I am a programmer who knows C/C++, Python and Java
+I enjoy creating computer programs, machine learning and
+elf-driven projects
 
 ---
 
