@@ -1,3 +1,1 @@
-## About Me
-
-Full-Stack Software Engineer with experience in DSA, Low-Level Design (LLD), and High-Level Design (HLD). Skilled in building scalable distributed systems using C++, Python, Java, and Spring Boot. Focused on backend development, system design, and performance optimization.
+# newMe = rudxkush.Ascension(oldMe);
