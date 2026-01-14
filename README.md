@@ -1,1 +1,1 @@
-# newMe = rudxkush.Ascension(oldMe);
+new_me = rudxkush.ascension(old_me).to('cuda')
